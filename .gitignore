@@ -1,0 +1,9 @@
+# Entorno virtual de uv
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Archivos de uv
+uv.lock
