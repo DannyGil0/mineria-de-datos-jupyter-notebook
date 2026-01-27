@@ -1,2 +1,4 @@
 # Notebook de la Materia de Mineria de Datos
-Hola :)
+
+---
+Alumno: Daniel Gil González<br/>Matricula: 178396
